@@ -10,6 +10,7 @@
     <meta content="" name="keywords">
 
     <link href="assets/img/favicon.png" rel="icon">
+    
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700" rel="stylesheet">
@@ -32,15 +33,15 @@
 
             <div class="row justify-content-center align-items-center">
                 <div class="col-xl-11 d-flex align-items-center justify-content-between">
-                    <h1 class="logo"><a href="index.html">Devysion</a></h1>
+                    <h1 class="logo"><a href="index">Devysion</a></h1>
                     <nav id="navbar" class="navbar">
                         <ul>
-                            <li><a class="nav-link scrollto active" href="./index.html">HOME</a></li>
-                            <li><a class="nav-link scrollto" href="./capabilities.html">CAPABILITIES</a></li>
-                            <li><a class="nav-link scrollto" href="./work.html">WORK</a></li>
-                            <li><a class="nav-link scrollto " href="./events.html">EVENTS</a></li>
-                            <li><a class="nav-link scrollto" href="./project.html">PROJECT</a></li>
-                            <li><a class="nav-link  " href="./team.html">TEAM</a></li>
+                            <li><a class="nav-link scrollto active" href="/">HOME</a></li>
+                            <li><a class="nav-link scrollto" href="./capabilities">CAPABILITIES</a></li>
+                            <li><a class="nav-link scrollto" href="./work">WORK</a></li>
+                            <li><a class="nav-link scrollto " href="./events">EVENTS</a></li>
+                            <li><a class="nav-link scrollto" href="./project">PROJECT</a></li>
+                            <li><a class="nav-link  " href="./team">TEAM</a></li>
                         </ul>
                         <i class="bi bi-list mobile-nav-toggle"></i>
                     </nav>
@@ -325,11 +326,11 @@
                         <figure>
                             <img src="assets/img/portfolio/app1.jpg" class="img-fluid" alt="">
                             <a href="assets/img/portfolio/app1.jpg" data-lightbox="portfolio" data-title="App 1" class="link-preview"><i class="bi bi-plus"></i></a>
-                            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                            <a href="portfolio-details" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
                         </figure>
 
                         <div class="portfolio-info">
-                            <h4><a href="portfolio-details.html">App 1</a></h4>
+                            <h4><a href="portfolio-details">App 1</a></h4>
                             <p>App</p>
                         </div>
                     </div>
@@ -340,11 +341,11 @@
                         <figure>
                             <img src="assets/img/portfolio/web3.jpg" class="img-fluid" alt="">
                             <a href="assets/img/portfolio/web3.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Web 3"><i class="bi bi-plus"></i></a>
-                            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                            <a href="portfolio-details" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
                         </figure>
 
                         <div class="portfolio-info">
-                            <h4><a href="portfolio-details.html">Web 3</a></h4>
+                            <h4><a href="portfolio-details">Web 3</a></h4>
                             <p>Web</p>
                         </div>
                     </div>
@@ -355,11 +356,11 @@
                         <figure>
                             <img src="assets/img/portfolio/app2.jpg" class="img-fluid" alt="">
                             <a href="assets/img/portfolio/app2.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="App 2"><i class="bi bi-plus"></i></a>
-                            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                            <a href="portfolio-details" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
                         </figure>
 
                         <div class="portfolio-info">
-                            <h4><a href="portfolio-details.html">App 2</a></h4>
+                            <h4><a href="portfolio-details">App 2</a></h4>
                             <p>App</p>
                         </div>
                     </div>
@@ -370,11 +371,11 @@
                         <figure>
                             <img src="assets/img/portfolio/card2.jpg" class="img-fluid" alt="">
                             <a href="assets/img/portfolio/card2.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Card 2"><i class="bi bi-plus"></i></a>
-                            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                            <a href="portfolio-details" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
                         </figure>
 
                         <div class="portfolio-info">
-                            <h4><a href="portfolio-details.html">Card 2</a></h4>
+                            <h4><a href="portfolio-details">Card 2</a></h4>
                             <p>Card</p>
                         </div>
                     </div>
@@ -385,11 +386,11 @@
                         <figure>
                             <img src="assets/img/portfolio/web2.jpg" class="img-fluid" alt="">
                             <a href="assets/img/portfolio/web2.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Web 2"><i class="bi bi-plus"></i></a>
-                            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                            <a href="portfolio-details" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
                         </figure>
 
                         <div class="portfolio-info">
-                            <h4><a href="portfolio-details.html">Web 2</a></h4>
+                            <h4><a href="portfolio-details">Web 2</a></h4>
                             <p>Web</p>
                         </div>
                     </div>
@@ -400,11 +401,11 @@
                         <figure>
                             <img src="assets/img/portfolio/app3.jpg" class="img-fluid" alt="">
                             <a href="assets/img/portfolio/app3.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="App 3"><i class="bi bi-plus"></i></a>
-                            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                            <a href="portfolio-details" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
                         </figure>
 
                         <div class="portfolio-info">
-                            <h4><a href="portfolio-details.html">App 3</a></h4>
+                            <h4><a href="portfolio-details">App 3</a></h4>
                             <p>App</p>
                         </div>
                     </div>
@@ -415,11 +416,11 @@
                         <figure>
                             <img src="assets/img/portfolio/card1.jpg" class="img-fluid" alt="">
                             <a href="assets/img/portfolio/card1.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Card 1"><i class="bi bi-plus"></i></a>
-                            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                            <a href="portfolio-details" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
                         </figure>
 
                         <div class="portfolio-info">
-                            <h4><a href="portfolio-details.html">Card 1</a></h4>
+                            <h4><a href="portfolio-details">Card 1</a></h4>
                             <p>Card</p>
                         </div>
                     </div>
@@ -430,11 +431,11 @@
                         <figure>
                             <img src="assets/img/portfolio/card3.jpg" class="img-fluid" alt="">
                             <a href="assets/img/portfolio/card3.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Card 3"><i class="bi bi-plus"></i></a>
-                            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                            <a href="portfolio-details" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
                         </figure>
 
                         <div class="portfolio-info">
-                            <h4><a href="portfolio-details.html">Card 3</a></h4>
+                            <h4><a href="portfolio-details">Card 3</a></h4>
                             <p>Card</p>
                         </div>
                     </div>
@@ -445,11 +446,11 @@
                         <figure>
                             <img src="assets/img/portfolio/web1.jpg" class="img-fluid" alt="">
                             <a href="assets/img/portfolio/web1.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Web 1"><i class="bi bi-plus"></i></a>
-                            <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                            <a href="portfolio-details" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
                         </figure>
 
                         <div class="portfolio-info">
-                            <h4><a href="portfolio-details.html">Web 1</a></h4>
+                            <h4><a href="portfolio-details">Web 1</a></h4>
                             <p>Web</p>
                         </div>
                     </div>
@@ -542,9 +543,9 @@
                     <div class="col-lg-3 col-md-6 footer-links">
                         <h4>Useful Links</h4>
                         <ul>
-                            <li><i class="bi bi-chevron-right"></i> <a href="./index.html">HOME</a></li>
-                            <li><i class="bi bi-chevron-right"></i> <a href="./capabilities.html">CAPABILITIES</a></li>
-                            <li><i class="bi bi-chevron-right"></i> <a href="./work.html">WORK</a></li>
+                            <li><i class="bi bi-chevron-right"></i> <a href="./index">HOME</a></li>
+                            <li><i class="bi bi-chevron-right"></i> <a href="./capabilities">CAPABILITIES</a></li>
+                            <li><i class="bi bi-chevron-right"></i> <a href="./work">WORK</a></li>
                             <li><i class="bi bi-chevron-right"></i> <a href="./events">EVENTS</a></li>
                             <li><i class="bi bi-chevron-right"></i> <a href="/project">PROJECT</a></li>
                             <li><i class="bi bi-chevron-right"></i> <a href="./team">TEAM</a></li>
