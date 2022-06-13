@@ -19,3 +19,4 @@ Route::get('/work', [MainController::class, 'work'])->name('work');
 Route::get('/events', [MainController::class, 'events'])->name('events');
 Route::get('/project', [MainController::class, 'project'])->name('project');
 Route::get('/team', [MainController::class, 'team'])->name('team');
+Route::get('/portfolio-details', [MainController::class, 'portfolio'])->name('portfolio');

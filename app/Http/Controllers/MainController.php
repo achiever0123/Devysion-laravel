@@ -31,4 +31,8 @@ class MainController extends Controller
     {
         return View('project');
     }
+    public function portfolio(Request $request):View
+    {
+        return View('portfolio');
+    }
 }
