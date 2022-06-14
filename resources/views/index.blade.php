@@ -5,7 +5,7 @@
 
         <div class="row justify-content-center align-items-center">
             <div class="col-xl-11 d-flex align-items-center justify-content-between">
-                <h1 class="logo"><a href="index">Devysion</a></h1>
+                <h1 class="logo"><a href="/">Devysion</a></h1>
                 <nav id="navbar" class="navbar">
                     <ul>
                         <li><a class="nav-link scrollto active" href="/">HOME</a></li>

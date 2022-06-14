@@ -57,10 +57,10 @@
 
     <div class="container">
         <div class="copyright">
-            &copy; Copyright <strong>Devysion</strong>. All Rights Reserved
+            &copy; 2022 Copyright <strong>Devysion</strong>. All Rights Reserved
         </div>
-        <div class="credits">
+        <!-- <div class="credits">
             Designed by <a href="https://bootstrapmade.com/">William Jackson</a>
-        </div>
+        </div> -->
     </div>
 </footer>

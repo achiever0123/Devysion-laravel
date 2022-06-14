@@ -130,7 +130,7 @@
         <h1 style="color: white">What do you want?</h1>
       </div>
       <div class="d-grid col-6 mx-auto">
-        <button class="btn btn-lg events-button" type="button" >Plan a Event</button>
+        <button class="btn btn-lg events-button" type="button" onclick="plan_event()">Plan a Event</button>
       </div>
     </section>
   </main>

@@ -823,6 +823,9 @@ section {
     font-size: 20px;
     padding-bottom: 0px;
   }
+  .client-intro{
+    display:none;
+  }
 }
 
 /* Facts Section

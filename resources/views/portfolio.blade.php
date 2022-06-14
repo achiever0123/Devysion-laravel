@@ -101,7 +101,7 @@
           <p>3. Strategically align and sync with the announcements made by Xbox at E3.</p>
         </div>
       </div>
-      <div class="row part-content">
+      <div class="row part-content gy-3">
         <div class="col-lg-6">
           <img src="assets/img/projects/xbox-game-pass-e3-2018-1.jpeg" alt="xbox-game" class="img-fluid" />
         </div>
@@ -118,7 +118,7 @@
           <p>We began by building out dozens of lightbox menus to feature game art. These served as the primary architecture for the camera to fly through.</p>
         </div>
       </div>
-      <div class="row part-content">
+      <div class="row part-content gy-3">
         <div class="col-lg-6">
           <img src="assets/img/projects/xbox-game-pass-e3-2018-9-1.jpeg" alt="xbox-game" class="img-fluid" />
         </div>

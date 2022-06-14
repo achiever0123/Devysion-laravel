@@ -52,7 +52,7 @@
     <div class="container" data-aos="fade-up">
 
       <header class="section-header">
-        <h3>Let’s work together</h3>
+        <h3>Let's work together</h3>
         <p className="skills-header">START A PROJECT, SCHEDULE A TALK, OR JUST SAY HELLO</p>
       </header>
 
@@ -64,7 +64,7 @@
   </section>
   <section class="project-book">
     <div class="container">
-      <div class="row ">
+      <div class="row gy-4">
         <div class="col-lg-7">
           <h1 class="project-title mb-5">START A PROJECT</h1>
           <div class="input-group mb-4">
