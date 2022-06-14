@@ -826,6 +826,10 @@ section {
   .client-intro{
     display:none;
   }
+
+.skills-content{
+  font-size: 18px !important;
+}
 }
 
 /* Facts Section
@@ -2198,4 +2202,38 @@ section {
 
 .credit-content{
   padding-top: 100px;
+}
+
+.skills-content{
+  text-align: center;
+  font-size: 25px;
+  color: #fff;
+  padding-top: 35px;
+}
+
+.team-carousel {
+  background-color: #191919;
+}
+
+.carousel-title{
+  padding: 30px;
+  text-align: center;
+}
+
+.carousel-title h1{
+  color: #d9b08c;
+}
+
+.carousel-title p{
+  font-size: 25px;
+  color: #d5d5d5;
+}
+
+.navbar-mobile a{
+  color: #d9b08c !important;
+}
+
+.navbar-mobile ul{
+  background-color: #191919;
+  bottom: auto;
 }
