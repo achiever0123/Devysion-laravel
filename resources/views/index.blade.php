@@ -411,29 +411,7 @@
     </section><!-- End Portfolio Section -->
 
     <!-- ======= Our Clients Section ======= -->
-    <section id="clients">
-        <div class="container" data-aos="zoom-in">
-
-            <header class="section-header">
-                <h3>Our Clients</h3>
-            </header>
-
-            <div class="clients-slider swiper">
-                <div class="swiper-wrapper align-items-center">
-                    <div class="swiper-slide"><img src="assets/img/clients/client-1.png" class="img-fluid img-fluid-client" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/clients/client-2.png" class="img-fluid img-fluid-client" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/clients/client-3.png" class="img-fluid img-fluid-client" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/clients/client-4.png" class="img-fluid img-fluid-client" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/clients/client-5.png" class="img-fluid img-fluid-client" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/clients/client-6.png" class="img-fluid img-fluid-client" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/clients/client-7.png" class="img-fluid img-fluid-client" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/img/clients/client-8.png" class="img-fluid img-fluid-client" alt=""></div>
-                </div>
-                <div class="swiper-pagination"></div>
-            </div>
-
-        </div>
-    </section>
+    
     <section id="contact" class="section-bg">
         <div class="container" data-aos="fade-up">
 
@@ -472,6 +450,36 @@
 
         </div>
     </section>
+    <section class="client-intro">
+    <header class="section-header">
+      <h3>Our Clients</h3>
+    </header>
+    <div class="container">
+      <div class="row text-center">
+        <div class="col-lg-2"><img src="assets/img/clients/1.png" style="filter: invert(1);" alt="client-1" class="img-fluid"></div>
+        <div class="col-lg-2"><img src="assets/img/clients/2.png" style="filter: invert(1);" alt="client-1" class="img-fluid"></div>
+        <div class="col-lg-2"><img src="assets/img/clients/3.png" style="filter: invert(1);" alt="client-1" class="img-fluid"></div>
+        <div class="col-lg-2"><img src="assets/img/clients/4.png" style="filter: invert(1);" alt="client-1" class="img-fluid"></div>
+        <div class="col-lg-2"><img src="assets/img/clients/5.png" style="filter: invert(1);" alt="client-1" class="img-fluid"></div>
+        <div class="col-lg-2"><img src="assets/img/clients/6.png" style="filter: invert(1);" alt="client-1" class="img-fluid"></div>
+      </div>
+      <div class="row text-center">
+        <div class="col-lg-2"><img src="assets/img/clients/7.png" style="filter: invert(1);" alt="client-1" class="img-fluid"></div>
+        <div class="col-lg-2"><img src="assets/img/clients/8.png" style="filter: invert(1);" alt="client-1" class="img-fluid"></div>
+        <div class="col-lg-2"><img src="assets/img/clients/9.png" style="filter: invert(1);" alt="client-1" class="img-fluid"></div>
+        <div class="col-lg-2"><img src="assets/img/clients/10.png" style="filter: invert(1);" alt="client-1" class="img-fluid"></div>
+        <div class="col-lg-2"><img src="assets/img/clients/11.png" style="filter: invert(1);" alt="client-1" class="img-fluid"></div>
+        <div class="col-lg-2"><img src="assets/img/clients/12.png" style="filter: invert(1);" alt="client-1" class="img-fluid"></div>
+      </div>
+      <div class="row text-center">
+        <div class="col-lg-3"></div>
+        <div class="col-lg-2"><img src="assets/img/clients/13.png" style="filter: invert(1);" alt="client-1" class="img-fluid"></div>
+        <div class="col-lg-2"><img src="assets/img/clients/14.png" style="filter: invert(0.5);" alt="client-1" class="img-fluid"></div>
+        <div class="col-lg-2"><img src="assets/img/clients/4.png" style="filter: invert(1);" alt="client-1" class="img-fluid"></div>
+        <div class="col-lg-3"></div>
+      </div>
+    </div>
+  </section>
 
 </main>
 @endsection
