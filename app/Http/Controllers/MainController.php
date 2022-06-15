@@ -31,8 +31,8 @@ class MainController extends Controller
     {
         return View('project');
     }
-    public function portfolio(Request $request):View
-    {
-        return View('portfolio');
+    public function portfolio(Request $request, $projectId):View
+    { 
+        return View('projects.'.$projectId);
     }
 }
