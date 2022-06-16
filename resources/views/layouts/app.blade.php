@@ -10,7 +10,7 @@
     <meta content="" name="keywords">
 
     <link href="{{asset('assets/img/favicon.png')}}" rel="icon">
-    
+
     <link href="{{asset('assets/img/apple-touch-icon.png')}}" rel="apple-touch-icon">
 
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700" rel="stylesheet">
@@ -33,7 +33,7 @@
     @yield('content')
 
     @include('layouts/footer')
-
+    
     <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
     <script src="{{asset('assets/vendor/purecounter/purecounter.js')}}"></script>
@@ -47,7 +47,6 @@
 
 
     <script src="{{asset('assets/js/main.js')}}"></script>
-    <script src="{{asset('assets/js/my.js')}}"></script>
 
 </body>
 

@@ -290,7 +290,7 @@
                         <figure>
                             <img src="assets/img/projects/strategy_1.jpg" class="img-fluid" alt="">
                             <a href="assets/img/projects/strategy_1.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Strategy 1"><i class="bi bi-plus"></i></a>
-                            <a href="/portfolio-details" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                            <a href="/portfolio-details/strategy_1" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
                         </figure>
 
                         <div class="portfolio-info">
@@ -305,7 +305,7 @@
                         <figure>
                             <img src="assets/img/projects/branding_2.jpg" class="img-fluid" alt="">
                             <a href="assets/img/projects/branding_2.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Branding 2"><i class="bi bi-plus"></i></a>
-                            <a href="/portfolio-details" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                            <a href="/portfolio-details/branding_2" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
                         </figure>
 
                         <div class="portfolio-info">
@@ -320,7 +320,7 @@
                         <figure>
                             <img src="assets/img/projects/branding_3.jpg" class="img-fluid" alt="">
                             <a href="assets/img/projects/branding_3.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Branding 3"><i class="bi bi-plus"></i></a>
-                            <a href="/portfolio-details" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                            <a href="/portfolio-details/branding_3" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
                         </figure>
 
                         <div class="portfolio-info">
@@ -335,7 +335,7 @@
                         <figure>
                             <img src="assets/img/projects/gamedesign_1.jpg" class="img-fluid" alt="">
                             <a href="assets/img/projects/gamedesign_1.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Game Design 1"><i class="bi bi-plus"></i></a>
-                            <a href="/portfolio-details" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                            <a href="/portfolio-details/gamedesign_1" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
                         </figure>
 
                         <div class="portfolio-info">
@@ -350,7 +350,7 @@
                         <figure>
                             <img src="assets/img/projects/branding_4.jpg" class="img-fluid" alt="">
                             <a href="assets/img/projects/branding_4.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Branding 4"><i class="bi bi-plus"></i></a>
-                            <a href="/portfolio-details" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                            <a href="/portfolio-details/branding_4" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
                         </figure>
 
                         <div class="portfolio-info">
@@ -365,7 +365,7 @@
                         <figure>
                             <img src="assets/img/projects/branding_5.jpg" class="img-fluid" alt="">
                             <a href="assets/img/projects/branding_5.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Branding 5"><i class="bi bi-plus"></i></a>
-                            <a href="/portfolio-details" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                            <a href="/portfolio-details/branding_5" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
                         </figure>
 
                         <div class="portfolio-info">
@@ -380,7 +380,7 @@
                         <figure>
                             <img src="assets/img/projects/digital_1.jpg" class="img-fluid" alt="">
                             <a href="assets/img/projects/digital_1.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Digital 1"><i class="bi bi-plus"></i></a>
-                            <a href="/portfolio-details" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                            <a href="/portfolio-details/digital_1" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
                         </figure>
 
                         <div class="portfolio-info">
@@ -395,7 +395,7 @@
                         <figure>
                             <img src="assets/img/projects/gamedesign_2.jpg" class="img-fluid" alt="">
                             <a href="assets/img/projects/gamedesign_2.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Game Design 2"><i class="bi bi-plus"></i></a>
-                            <a href="/portfolio-details" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+                            <a href="/portfolio-details/gamedesign_2" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
                         </figure>
 
                         <div class="portfolio-info">
